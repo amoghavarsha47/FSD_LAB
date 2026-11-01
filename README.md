@@ -10,7 +10,7 @@ A responsive React + Vite frontend for a BMSCE-only campus marketplace. It is de
 ## Run locally
 
 1. Extract this project folder.
-2. Open a terminal inside `bms-loop`.
+2. Open a terminal inside `FSD_LAB`.
 3. Install dependencies:
 
    ```bash
