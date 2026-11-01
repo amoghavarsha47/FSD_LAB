@@ -25,7 +25,7 @@ A responsive React + Vite frontend for a BMSCE-only campus marketplace. It is de
 
 5. Open the local URL printed by Vite (usually `http://localhost:5173`).
 
-Create a production build with:
+<!-- Create a production build with:
 
 ```bash
 npm run build
@@ -34,7 +34,7 @@ npm run build
 Preview the production build with:
 
 ```bash
-npm run preview
+npm run preview -->
 ```
 
 ## Demo walkthrough
